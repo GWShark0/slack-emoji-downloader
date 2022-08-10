@@ -1,0 +1,11 @@
+{
+  "name": "slack-emoji-downloader",
+  "version": "0.0.1",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "Greg Douglas <gwshark0@gmail.com>",
+  "description": "A node script to download Slack emoji from a JSON manifest.",
+  "license": "MIT"
+}
